@@ -4,7 +4,6 @@ class Program
 {
     static void Main()
     {
-        Console.WriteLine("Тестер рефлексов (простая версия)");
         Console.WriteLine("Нажми Enter когда будешь готов...");
         Console.ReadLine(); 
 
